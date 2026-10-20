@@ -9,6 +9,13 @@ From 0.3.0 on, entries are written by release-please from the titles of the
 merged pull requests (`feat` → Added, `fix` → Fixed). The open release PR holds
 the next entry; edit it there before merging if a line needs rewording.
 
+## [0.6.3](https://github.com/SenteLabsAI/OpenExecutive/compare/v0.6.2...v0.6.3) (2026-10-20)
+
+
+### Added
+
+* **delegation:** attach up to 15 Drive files to a draft ([#581](https://github.com/SenteLabsAI/OpenExecutive/issues/581)) ([3558823](https://github.com/SenteLabsAI/OpenExecutive/commit/3558823bd21dd0259e0b35bcd5d2dca343e63266))
+
 ## [0.6.2](https://github.com/SenteLabsAI/OpenExecutive/compare/v0.6.1...v0.6.2) (2026-10-20)
 
 
